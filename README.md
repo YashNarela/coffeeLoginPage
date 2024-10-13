@@ -1,0 +1,2 @@
+# coffeeLoginPage
+static page
